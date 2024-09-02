@@ -1,0 +1,27 @@
+.box {
+    $n: var(--n);
+    $a: var(--a);
+    $b: var(--b);
+
+    // @keyframes cf4FadeInOut {
+    //     0% {
+    //         opacity: 1;
+    //     }
+
+    //     ($a / $t * 100)% {
+    //         opacity: 1;
+    //     }
+
+    //     25% {
+    //         opacity: 0;
+    //     }
+
+    //     92% {
+    //         opacity: 0;
+    //     }
+
+    //     100% {
+    //         opacity: 1;
+    //     }
+    // }
+}
